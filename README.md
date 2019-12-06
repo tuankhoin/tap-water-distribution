@@ -3,7 +3,7 @@ Small-Scale Drinking Water Distribution Project for a Remote Community
 By Tuan Khoi Nguyen, Battulga Batkhurel, Rundong Liu and Haiwei Wang (2019)
 
 ## Introduction
-This project serves as the main project throughout the semester for Engieering Design Systems 1, Semseter 1 2019. Its purpose is to design a sample system of tap distribution that distributes water to a small community. Here in this repository, I will only note down on parts that I am in charge of, the rest will be briefly mentioned if needed. Further details can be found in [the report](Final Report-group 15.pdf).
+This project serves as the main project throughout the semester for Engieering Design Systems 1, Semseter 1 2019. Its purpose is to design a sample system of tap distribution that distributes water to a small community. Here in this repository, I will only note down on parts that I am in charge of, the rest will be briefly mentioned if needed. Further details can be found in [the report](https://github.com/tuankhoin/tap-water-distribution/blob/master/Final%20Report-group%2015.pdf).
 
 **Warning**: If you are planning to use the ideas here for your academic purposes, please be aware that you might be picked up for plagiarism by the Academic Integrity if credits are not properly referenced.
 
@@ -14,13 +14,13 @@ To ultilize the cost and efficiency of the system, I have set priorities for the
 * Sunlight avoidance: to prevent the corrosion from sunlight UV.
 * Runs with building structure: to prevent physical collisions that may occur.
 * Length minimization: to make the cost as efficient as possible.
-The network figures can be found on page 25 of [the report](Final Report-group 15.pdf), followed by further details.
+The network figures can be found on page 25 of [the report](https://github.com/tuankhoin/tap-water-distribution/blob/master/Final%20Report-group%2015.pdf), followed by further details.
 
 ### Choices of materials and pipe diameters
-Choices are made after a series of trial and run, as well as paper research. See page 26 & 27 of [the report](Final Report-group 15.pdf) for details.
+Choices are made after a series of trial and run, as well as paper research. See page 26 & 27 of [the report](https://github.com/tuankhoin/tap-water-distribution/blob/master/Final%20Report-group%2015.pdf) for details.
 
 ### EBE Analysis and calculation
-For this part, I have composed a script to do the calculations. Result tables can be found from page 28 onwards and the script for this part is [Section2Pressures.m](https://github.com/tuankhoin/tap-water-distribution/blob/master/Section2_Updated/Section2Pressures.m)
+For this part, I have composed a script to do the calculations. Result tables can be found from page 28 onwards of [the report](https://github.com/tuankhoin/tap-water-distribution/blob/master/Final%20Report-group%2015.pdf) and the script for this part is [Section2Pressures.m](https://github.com/tuankhoin/tap-water-distribution/blob/master/Section2_Updated/Section2Pressures.m)
 
 ## Improvements
 
