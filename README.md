@@ -1,9 +1,9 @@
-# tap-water-distribution
+# Tap Water Distribution System Design
 Small-Scale Drinking Water Distribution Project for a Remote Community
 By Tuan Khoi Nguyen, Battulga Batkhurel, Rundong Liu and Haiwei Wang (2019)
 
 ## Introduction
-This project is to design a sample system of tap distribution that distributes water to a small community. Here in this repository, I will only note down on parts that I am in charge of, the rest will be briefly mentioned if needed. Further details can be found in [the report](Final Report-group 15.pdf).
+This project serves as the main project throughout the semester for Engieering Design Systems 1, Semseter 1 2019. Its purpose is to design a sample system of tap distribution that distributes water to a small community. Here in this repository, I will only note down on parts that I am in charge of, the rest will be briefly mentioned if needed. Further details can be found in [the report](Final Report-group 15.pdf).
 
 **Warning**: If you are planning to use the ideas here for your academic purposes, please be aware that you might be picked up for plagiarism by the Academic Integrity if credits are not properly referenced.
 
