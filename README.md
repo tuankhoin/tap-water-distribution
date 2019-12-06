@@ -30,4 +30,4 @@ This is to reduce the cost by reducing the diameter of the system where possible
 * Then I composed a calculation script using the above function to calculate the overall system pressure, for an unlimited number of reducers. See [p_tap.m](https://github.com/tuankhoin/tap-water-distribution/blob/master/Section2_Updated/p_tap.m).
 
 ### Further research: taps are simultaneously opened
-See [the report](Final Report-group 15.pdf), pp.33-35.
+See [the report](https://github.com/tuankhoin/tap-water-distribution/blob/master/Final%20Report-group%2015.pdf), pp.33-35.
