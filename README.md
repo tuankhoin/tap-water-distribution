@@ -10,7 +10,7 @@ This project serves as the main project throughout the semester for Engineering 
 ## What I do in this project
 
 ### Tap Distribution System Design
-To ultilize the cost and efficiency of the system, I have set priorities for the system structure, in the order of most priortized. After testing methods and research, the fianl priority list is set, strating from the most priortized:
+To ultilize the cost and efficiency of the system, I have set priorities for the system structure, in the order of most priortized. After testing methods and research, the final priority list is set, strating from the most priortized:
 * Sunlight avoidance: to prevent the corrosion from sunlight UV.
 * Runs with building structure: to prevent physical collisions that may occur.
 * Length minimization: to make the cost as efficient as possible.
