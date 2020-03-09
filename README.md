@@ -25,7 +25,7 @@ For this part, a script is composed to do the calculations. Result tables can be
 ## Improvements
 
 ### Addition of reducers
-This is to reduce the cost by reducing the diameter of the system where possible, but still satisfy the minimum requirements. To avoid the time-consuming brute-force calculations. A number of matlab scripts have been arranged:
+This is to reduce the cost by reducing the diameter of the system where possible, but still satisfy the minimum requirements. To avoid the time-consuming brute-force calculations, a number of matlab scripts has been arranged:
 * Function script to calculate the pressure drop on a set position of the reducers. See [Section2_with_reducers.m](https://github.com/tuankhoin/tap-water-distribution/blob/master/Section2_Updated/Section2_with_reducers.m).
 * Calculation script using the above function to calculate the overall system pressure, for an unlimited number of reducers. See [p_tap.m](https://github.com/tuankhoin/tap-water-distribution/blob/master/Section2_Updated/p_tap.m).
 
